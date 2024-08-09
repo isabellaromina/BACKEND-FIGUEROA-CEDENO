@@ -1,0 +1,14 @@
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\net8.0\ProyectoFerreteria.deps.json
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\net8.0\ProyectoFerreteria.runtimeconfig.json
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\net8.0\ProyectoFerreteria.dll
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\net8.0\ProyectoFerreteria.pdb
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\ProyectoFerreteria.csproj.AssemblyReference.cache
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\ProyectoFerreteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\ProyectoFerreteria.AssemblyInfoInputs.cache
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\ProyectoFerreteria.AssemblyInfo.cs
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\ProyectoFerreteria.csproj.CoreCompileInputs.cache
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\ProyectoFerreteria.dll
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\refint\ProyectoFerreteria.dll
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\ProyectoFerreteria.pdb
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\ProyectoFerreteria.genruntimeconfig.cache
+C:\Users\katty\source\repos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\net8.0\ref\ProyectoFerreteria.dll
